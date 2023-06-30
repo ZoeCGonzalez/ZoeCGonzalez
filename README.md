@@ -1,16 +1,14 @@
-### Hi there 👋
+# Zoe Gonzalez
 
-<!--
-**ZoeCGonzalez/ZoeCGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Age: 21
+- Location: Argentina
+- Email: zoegonzalezjob@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/zoecgonzalez/)
+-  [Instagram](https://www.instagram.com/zoegonzalez.z/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
 
-Here are some ideas to get you started:
+## Interests and Skills
+- I enjoy working with the front-end, particularly focusing on the visual aspects.
+- Currently developing projects in Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me via email or connect with me on LinkedIn!
