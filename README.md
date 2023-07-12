@@ -1,7 +1,7 @@
 # Zoe Gonzalez
 
 ## About Me
-- Age: 21
+- Age: 22
 - Location: Argentina
 - Email: zoegonzalezjob@gmail.com
 -  [LinkedIn](https://www.linkedin.com/in/zoecgonzalez/)
