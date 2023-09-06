@@ -5,7 +5,7 @@
 - Location: Argentina
 - Email: zoegonzalezjob@gmail.com
 -  [LinkedIn](https://www.linkedin.com/in/zoecgonzalez/)
--  [Instagram](https://www.instagram.com/zoegonzalez.z/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
+
 
 ## Interests and Skills
 
