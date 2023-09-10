@@ -3,7 +3,7 @@
 ## About Me
 - Age: 22
 - Location: Argentina
-- Email: zoegonzalezjob@gmail.com
+-  zoegonzalezjob@gmail.com
 -  [LinkedIn](https://www.linkedin.com/in/zoecgonzalez/)
 
 
