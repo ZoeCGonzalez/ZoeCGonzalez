@@ -1,5 +1,4 @@
 ## About Me
-- Age: 23
 - Location: Argentina
 -  [LinkedIn](https://www.linkedin.com/in/zoecgonzalez/)
 
